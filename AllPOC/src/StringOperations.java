@@ -122,7 +122,7 @@ public static void ReversepatternNumber()
 		pyramidpattern();
 		//m();
 		//m2();
-		
+		System.out.println("In main methood");
 	}
 
 }
